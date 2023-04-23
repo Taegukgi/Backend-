@@ -1,0 +1,66 @@
+백엔드 개발자는 다양한 프로그래밍 언어, 프레임워크, 데이터베이스 및 도구를 사용하여 서버 측 애플리케이션 및 API를 구축
+
+1.Programming languages:
+
+Python (Django, Flask)
+JavaScript (Node.js, Express.js)
+PHP (Laravel, Symfony)
+Ruby (Ruby on Rails)
+Java (Spring, Java EE)
+C# (.NET Core, ASP.NET)
+Go (Gin, Revel)
+Kotlin (Ktor, Spring Boot)
+
+2.Databases:
+
+Relational databases (관계형 ) (MySQL, PostgreSQL, Microsoft SQL Server, Oracle Database)
+NoSQL databases (NoSQL) (MongoDB, Couchbase, Cassandra, Redis)
+
+3.Web servers:
+
+Apache HTTP Server
+Nginx
+Microsoft IIS
+LiteSpeed Web Server
+
+4.API design and management:
+
+RESTful APIs
+GraphQL
+OpenAPI Specification (formerly Swagger)
+API gateways (Kong, Apigee, AWS API Gateway)
+
+5.Containerization and orchestration:
+
+Docker
+Kubernetes
+OpenShift
+
+6.Cloud platforms:
+
+Amazon Web Services (AWS)
+Microsoft Azure
+Google Cloud Platform (GCP)
+Heroku
+
+7.Version control systems:
+
+Git
+Subversion (SVN)
+Mercurial
+
+8.Continuous Integration / Continuous Deployment (CI/CD) tools: (지속적인 통합/지속정인 배포)
+
+Jenkins
+GitLab CI/CD
+Travis CI
+CircleCI
+Bamboo
+
+9.Testing frameworks and tools: ( 테스트 프레임워크 )
+
+JUnit (Java)
+pytest (Python)
+RSpec (Ruby)
+PHPUnit (PHP)
+Mocha (JavaScript)
